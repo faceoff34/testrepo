@@ -1,2 +1,6 @@
 # testrepo
-Testing a repo from Coursera course
+
+
+## Editing the File
+
+It's a markdown file in this directory
